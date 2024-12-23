@@ -3,7 +3,7 @@
 - 💥 I do glsl livecoding performances
 - 👽️ I'm enthusiast about graphics, video games technologies and parsing stuff
 - 😄 [Here's my website](https://www.z0rg.dev/)
-- 📫 Don't hesitate to reach me through on of my [socials](https://linktr.ee/z0rg)
+- 📫 Don't hesitate to reach me through one of my [socials](https://linktr.ee/z0rg)
 
 ## Projects highlight
 - [Godot C# to GDScript](https://github.com/seb776/CSToGDScript)
