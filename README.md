@@ -1,5 +1,5 @@
 ## Hi there I'm z0rg 👋 
-- 🔭 I’m a graphics programmer
+- 🔭 I’m a creative coder
 - 💥 I do glsl livecoding performances
 - 👽️ I'm enthusiast about graphics, video games technologies and parsing stuff
 - 😄 [Here's my website](https://www.z0rg.dev/)
